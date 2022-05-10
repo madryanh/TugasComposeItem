@@ -114,7 +114,7 @@ fun ProductItem(product: Product) {
 
             Column(modifier = Modifier.padding(80.dp, 0.dp, 0.dp, 0.dp)) {
                 AsyncImage(
-                    model = product.button,
+                    model = "https://cdn-icons-png.flaticon.com/512/61/61147.png",
                     contentDescription = null,
                     modifier = Modifier.size(20.dp)
                         .clickable { showProductFullDesciption = showProductFullDesciption.not() },
