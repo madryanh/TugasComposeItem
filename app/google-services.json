@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "650689540320",
+    "firebase_url": "https://authenticationfirebase-4f63e-default-rtdb.firebaseio.com",
+    "project_id": "authenticationfirebase-4f63e",
+    "storage_bucket": "authenticationfirebase-4f63e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650689540320:android:7e60920be68f3c7bfb6085",
+        "android_client_info": {
+          "package_name": "com.adl.aplikasibookstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650689540320-5blds5993dqcn3m8f42hi8sc3u5i3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHIuzZMtcKykkd8J7i5bP1Cb5Tevr4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650689540320-5blds5993dqcn3m8f42hi8sc3u5i3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650689540320:android:23601d9e337c1e09fb6085",
+        "android_client_info": {
+          "package_name": "com.adl.authenticationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650689540320-5blds5993dqcn3m8f42hi8sc3u5i3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHIuzZMtcKykkd8J7i5bP1Cb5Tevr4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650689540320-5blds5993dqcn3m8f42hi8sc3u5i3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650689540320:android:0e2ac07076bd3c21fb6085",
+        "android_client_info": {
+          "package_name": "com.adl.tugascomposeitem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650689540320-5blds5993dqcn3m8f42hi8sc3u5i3ha4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOHIuzZMtcKykkd8J7i5bP1Cb5Tevr4TM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650689540320-5blds5993dqcn3m8f42hi8sc3u5i3ha4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
